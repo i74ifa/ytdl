@@ -1,0 +1,3 @@
+[build]
+  builder = "paketobuildpacks/builder-jammy-full"
+  buildpacks = ["gcr.io/paketo-buildpacks/php"]
